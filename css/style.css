@@ -9,7 +9,7 @@ body{
 }
 
 #home-section{
-    background: url(https://static.pexels.com/photos/159306/construction-site-build-construction-work-159306.jpeg) no-repeat;
+    background: url("../img/headbg.jpeg") no-repeat;
     min-height: 600px;
     background-size: cover;
     background-attachment: fixed;
