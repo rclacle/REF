@@ -1,0 +1,42 @@
+body{
+    background:#333;
+    color:#fff;
+}
+
+.navbar{
+    border-bottom: #008ed6 3px solid;
+    opacity: 0.8;
+}
+
+#home-section{
+    background: url(https://static.pexels.com/photos/159306/construction-site-build-construction-work-159306.jpeg) no-repeat;
+    min-height: 600px;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 400px;
+}  
+
+.dark-overlay{
+    background-color: rgba(0,0,0,0.5);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    min-height: 600px;
+}
+
+.home-inner{
+    padding-top:100px;
+}
+
+.card-form{
+    opacity: 0.9;
+}
+
+i.fa{
+    font-size: 30px;
+}
+
+.btn:hover{
+    color:#008ed6;
+}
